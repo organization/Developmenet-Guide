@@ -1,2 +1,2 @@
 # DevelopmentGuide
-PocketMine-MP Development Guide
+[PocketMine-MP Plugin Development Guide](https://github.com/organization/DevelopmentGuide/wiki)
