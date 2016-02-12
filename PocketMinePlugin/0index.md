@@ -1,5 +1,5 @@
-# PocketMine Plugin Devlopment
-![img](php.png)
+# <p align="center">PocketMine Plugin Devlopment
+<p align="center">![img](php.png)
 * [PHP로 시작하기](PHP/1.md)
  * [변수 - 자료형](PHP/2.md)
  * [배열](PHP/3.md)

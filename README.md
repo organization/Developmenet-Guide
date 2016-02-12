@@ -1,4 +1,4 @@
-# GuideBook
+# <p align="center">GuideBook
 * [PocketMine](PocketMinePlugin/0index.md)
 * [Ranknet]()
 
